@@ -8,6 +8,7 @@ WebGIS ismertetés
 Internet alapismeretek
 
 git ismeretek
+
 HTML kód készítés
 
 Javascript
